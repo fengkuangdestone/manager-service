@@ -1,0 +1,9 @@
+server:
+  port: 8963
+spring:
+  application:
+    name: manager-service
+management:
+  port: 8964
+  security:
+    enabled: false
